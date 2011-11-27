@@ -1,6 +1,6 @@
 Name:           spice-parent
 Version:        15
-Release:        4
+Release:        6
 Summary:        Sonatype Spice Components
 
 Group:          Development/Java
