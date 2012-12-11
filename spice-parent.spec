@@ -56,3 +56,11 @@ rm -rf %{buildroot}
 %{_mavenpomdir}/*
 %{_mavendepmapfragdir}/*
 
+
+
+%changelog
+* Sun Nov 27 2011 Guilherme Moro <guilherme@mandriva.com> 15-6
++ Revision: 734240
+- rebuild
+- imported package spice-parent
+
