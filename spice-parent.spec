@@ -6,7 +6,7 @@ Summary:        Sonatype Spice Components
 
 
 License:        ASL 2.0
-URL:            http://svn.sonatype.org/spice/tags/spice-parent-15
+URL:            https://svn.sonatype.org/spice/tags/spice-parent-15
 #svn export http://svn.sonatype.org/spice/tags/spice-parent-15 spice-parent-15
 #tar zcf spice-parent-15.tar.gz spice-parent-15/
 Source0:        %{name}-%{version}.tar.gz
